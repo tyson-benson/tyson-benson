@@ -11,7 +11,7 @@
 - I contribute to open source from time to time, occaisionally [blog](https://www.tyson.net.au/blog), but mostly I'm spending my days trying to be a good father and husband
 - 💬 You can get in touch with me by email at [me@tyson.net.au](mailto:me@tyson.net.au), Twitter ([@Tyson_net_au](https://twitter.com/Tyson_net_au)), and [LinkedIn](https://www.linkedin.com/in/tysonrbenson/).
 
-# Blog Posts
+## Blog Posts
 
 - [Azure Static Web Apps - First impressions](https://www.tyson.net.au/blog/azure-swa-first-impressions/) (2021-11-10)
 - [Levelling up your terminal UX](https://www.tyson.net.au/blog/terminal-ux/) (2021-11-07)
