@@ -8,7 +8,7 @@
 
 - 👀 I'm a Principal Architect at [Janison](https://www.janison.com/), and have worked as a software developer and architect since 2008.
 - 🌱 I’m currently learning CosmosDB and Azure Functions
-- I contribute to open source from time to time, occaisionally [blog](https://www.tyson.net.au/blog), but mostly I'm spending my days trying to be a good father and husband
+- I contribute to open source from time to time, occasionally [blog](https://www.tyson.net.au/blog), but mostly I'm spending my days trying to be a good father and husband
 - 💬 You can get in touch with me by email at [me@tyson.net.au](mailto:me@tyson.net.au), Twitter ([@Tyson_net_au](https://twitter.com/Tyson_net_au)), and [LinkedIn](https://www.linkedin.com/in/tysonrbenson/).
 
 ## Blog Posts
