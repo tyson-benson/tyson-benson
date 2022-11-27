@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tyson-benson
+# 👋 Hi, I’m Tyson
 
 [![Linkedin Badge](https://img.shields.io/badge/-tysonrbenson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tysonrbenson/)](https://www.linkedin.com/in/tysonrbenson/)
 [![Website Badge](https://img.shields.io/badge/-tyson.net.au-6AAB02?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tyson.net.au)](https://www.tyson.net.au)
